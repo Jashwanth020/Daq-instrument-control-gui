@@ -1,50 +1,5 @@
-/ac 1.png
-/ac measure.png
-/ac signal me.csv
-/ac.png
-/FINAL
-/final_nun.py
-/gemini.py
-/gui.py
-/gui_1.py
-/instrument_gui.log
-/it 20ms for 10000ms nplc 0.1.csv
-/it 20ms for 10000ms.csv
-/it 20ms for 10000ms.png
-/it 20ms for 1min nplc 0.1.csv
-/it 20ms for 1min nplc 0.1.png
-/it 20ms for 1min.csv
-/it 20ms for 1min.png
-/it 30000ms.png
-/it 50ms.csv
-/it 50ms.png
-/it elapsed.csv
-/it nplc 0.1 with 20ms for 1min.csv
-/it nplc 0.1 with 20ms for 1min.png
-/it test 50ms.csv
-/it.csv
-/it.png
-/it_test1.csv
-/it_test2.csv
-/it_test3.csv
-/iv sweep 2636b.csv
-/iv sweep dc.csv
-/keithley2450tsp.py
-/keithley2450_fixed.py
-/keithley_2636B_fixed.py
-/keithley_controller.py
-/mock_instruments.py
-/modify_gui.py
-/nangui1.py
-/nangui2.py
-/newgui.py
-/newgui0.py
-/newgui04.py
-/newgui1.py
-/newgui2.py
-/newgui9.py
-/new_2636b.py
-/pulse iv.csv
-/run_pulse_iv_sweep.py
-/sr830_controller1.py
-/x_y data 1.csv
+__pycache__/
+*.pyc
+*.log
+.env
+.DS_Store
